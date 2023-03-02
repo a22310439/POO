@@ -1,3 +1,0 @@
-﻿  Rectangulos.cpp
-D:\Otros\Documentos\source\repos\Rectangulos\Rectangulos\Rectangulos.cpp(26,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  Rectangulos.vcxproj -> D:\Otros\Documentos\source\repos\Rectangulos\x64\Debug\Rectangulos.exe
