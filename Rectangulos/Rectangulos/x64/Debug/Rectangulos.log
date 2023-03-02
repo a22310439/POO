@@ -1,0 +1,3 @@
+﻿  SourceRectangulo.cpp
+C:\Users\Asthok\source\repos\a22310439\2do-semestre\Rectangulos\Rectangulos\SourceRectangulo.cpp(28,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Rectangulos.vcxproj -> C:\Users\Asthok\Source\Repos\a22310439\2do-semestre\Rectangulos\x64\Debug\Rectangulos.exe
